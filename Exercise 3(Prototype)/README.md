@@ -2,4 +2,4 @@
 #Exercise 3 (Prototype)
 
 
-![](https://github.com/RaymondRaman/Figma/blob/main/Exercise%203(Prototype)/7cm0zb.gif)
+<img src="https://user-images.githubusercontent.com/107023977/219369645-567446f4-7524-4d19-a921-c77cda8e58ed.jpg" width="1000" height = "500">
